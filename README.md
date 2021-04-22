@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHADESLAYER234</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning Node.js **Node.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **react**
 
