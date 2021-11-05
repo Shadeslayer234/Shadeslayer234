@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **shade_s234@outlook.com**
+- 📫 How to reach me **praveen.weerabahu@gmail.com**
 
 - 📄 Know about my experiences [https://praveenweerabahu.netlify.app](https://praveenweerabahu.netlify.app)
 
