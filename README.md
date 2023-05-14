@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SHADESLAYER234</h1>
+<h1 align="center">Hi 👋, I'm SHADESLAYER</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 [![@shadeslayer234's Holopin board](https://holopin.me/shadeslayer234)](https://holopin.io/@shadeslayer234)
